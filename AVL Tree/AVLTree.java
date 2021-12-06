@@ -1,15 +1,3 @@
-/***
- * submitted by:
- * 
- * 1. Name: Hadas Etzion
- *    User name: hadasetzion
- *    ID: 316327360
- * 
- * 2. Name: Ronnie Griness
- *    User name: griness
- *    ID: 316113026
- ***/
-
 /**
  * AVLTree
  *

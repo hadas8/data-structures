@@ -1,18 +1,4 @@
 /**
- * submitted by:
- * 
- * name: Hadas Etzion
- * username: hadasetzion
- * ID: 316327360
- * 
- * name: Ronnie Griness
- * username: griness
- * ID: 316113026
- * 
- */
-
-
-/**
  * FibonacciHeap
  *
  * An implementation of fibonacci heap over integers.
